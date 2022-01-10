@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sophiehadeln@gmail.com
+	name = Sophie Hadeln
